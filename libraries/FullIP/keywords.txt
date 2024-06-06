@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for SerialIP
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmtpClient KEYWORD1
+FtpClient KEYWORD1
+TelnetServer KEYWORD1
+HttpServer KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendMail	KEYWORD2
+sendFile	KEYWORD2
+getFile	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

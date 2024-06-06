@@ -1,0 +1,6 @@
+The simple way that doesn't require any permanent modifying of your hardware or software configuration changes:
+
+Stick a 120 ohm resistor in the headers between 5v and reset (you can find these on the isp connector too). 120 is hard to find so just combine resistors. Don't go below 110 ohms or above 124 ohms, and don't do this with an isp programmer attached. You can just pull out the resistor when you want auto-reset back.
+
+
+Note: this may not work on the Arduino Uno due to differing reset current from the USB chip (see this discussion). For the Uno, connecting a 10µF capacitor between the RESET and GND lines works for me (as described in the linked thread).

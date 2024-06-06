@@ -1,0 +1,22 @@
+Parts List:
+
+GPS Module (GY-NEO6MV2 ublox) with antenna
+
+Arduino Pro Mini Module (Atmega 328 5volt 16mHz)
+
+128x64 OLED display (I2C interface)
+
+DC-DC Up Converter Module (1.5v to 5v 500mA)
+"DC-DC Boost Converter Step Up Module 1-5V to 5V 500mA for phone MP4 MP3 Arduino"
+
+Mini USB 5V 1A Lipo Charger Module (TP4056)
+TP4056 5V Micro USB 1A Lithium Battery Charging Board Charger Module
+
+USB to TTL UART CP2104 Serial Converter (or any alternative)
+
+3.7v 1200mAh Lithium Polymer Battery (to fit project box)
+
+Project Box 59 X 87 X 31mm
+
+Mini Push Button Latching on/off switch
+
